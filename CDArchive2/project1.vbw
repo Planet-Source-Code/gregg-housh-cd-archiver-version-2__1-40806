@@ -1,0 +1,8 @@
+frmMain = 110, 110, 652, 555, Z, 22, 22, 564, 467, C
+modMain = 66, 66, 608, 511, C
+frmAbout = 22, 29, 765, 631, C, 0, 0, 743, 602, C
+frmCategories = 154, 203, 897, 805, , 132, 174, 875, 776, C
+frmCategoryManagement = 66, 87, 809, 689, C, 44, 58, 787, 660, C
+modMenus = 0, 0, 0, 0, C
+modDrawing = 0, 0, 0, 0, C
+clsMyMenu = 0, 0, 0, 0, C
